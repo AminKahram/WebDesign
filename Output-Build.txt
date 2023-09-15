@@ -1,0 +1,25 @@
+﻿Build started...
+------ Build started: Project: TahlilDadeh2, Configuration: Debug Any CPU ------
+Validating Web Site
+Building directory '/packages/bootstrap.5.0.2/content/Scripts/'.
+Building directory '/packages/bootstrap.5.0.2/contentFiles/any/any/wwwroot/js/'.
+Building directory '/packages/jQuery.3.6.0/Content/Scripts/'.
+Building directory '/packages/jQuery.3.6.0/Tools/'.
+Building directory '/packages/popper.js.1.16.1/content/Scripts/esm/'.
+Building directory '/packages/popper.js.1.16.1/content/Scripts/src/methods/'.
+Building directory '/packages/popper.js.1.16.1/content/Scripts/src/modifiers/'.
+Building directory '/packages/popper.js.1.16.1/content/Scripts/src/utils/'.
+Building directory '/packages/popper.js.1.16.1/content/Scripts/src/'.
+Building directory '/packages/popper.js.1.16.1/content/Scripts/umd/'.
+Building directory '/packages/popper.js.1.16.1/content/Scripts/'.
+Building directory '/Scripts/esm/'.
+Building directory '/Scripts/JSC/'.
+Building directory '/Scripts/src/methods/'.
+Building directory '/Scripts/src/modifiers/'.
+Building directory '/Scripts/src/utils/'.
+Building directory '/Scripts/src/'.
+Building directory '/Scripts/umd/'.
+Building directory '/Scripts/'.
+
+Validation Complete
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========

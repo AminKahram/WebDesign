@@ -1,0 +1,224 @@
+﻿@media (max-width: 575.98px) {
+
+    .hiden-xs {
+        display: none !important;
+    }
+    .font-title-xs {
+        font-size: 1.1em !important;
+    }
+    .CenterHeader-xs {
+        width: 100% !important;
+    }
+    .Videos-Teachers-xs {
+        justify-content: center !important;
+    }
+
+    .Videos-EDVideos-xs {
+        justify-content: center !important;
+    }
+    .Video-Center-Controls-xs {
+        width: 70px !important;
+    }
+    .Right-controls-xs{
+        height:20px !important;
+        width:20px !important;
+        margin:5px auto !important;
+    }
+    .c-Video-xs{
+        height:fit-content !important;
+    }
+    .speed-xs {
+        justify-content: space-between !important;
+        flex-direction: row !important;
+        align-content: flex-start !important;
+        align-items: center !important;
+    }
+    .Setting-Menu-xs {
+        width: 150px !important;
+        height: 58px !important;
+        padding: 0 !important;
+    }
+    .Setting-Menu-Item-xs{
+        height:35px !important;
+    }
+    .quality-Menu-xs {
+        width: 150px !important;
+        padding: 0 !important;
+        bottom:180px !important;
+    }
+    .quality-Menu-Item-xs{
+        height:30px !important;
+    }
+    .quality-text-xs {
+        font-size: 0.75rem !important;
+    }
+    .News-Post-img-xs {
+        height: 140px !important;
+        width: 140px !important;
+    }
+    .Card-text-and-img-Container-xs {
+        height: 215px;
+
+    }
+    
+
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .hiden-sm {
+        display: none !important;
+    }
+    .font-title-sm {
+        font-size: 1.5em !important;
+    }
+    .CenterHeader-sm {
+        width: 100% !important;
+    }
+    .c-Video-sm {
+        height: fit-content !important;
+    }
+    .videos-header-sm {
+        font-size: 0.7em !important;
+        margin-bottom: 10px !important;
+    }
+    .Video-header-img-sm{
+        margin-left:5px !important;
+    }
+    Right-controls-sm {
+        height: 20px !important;
+        width: 20px !important;
+        margin: 5px auto !important;
+    }
+    .speed-sm {
+        justify-content: space-between !important;
+        flex-direction: row !important;
+        align-content: flex-start !important;
+        align-items: center !important;
+    }
+    .News-Post-img-sm {
+        height: 125px !important;
+        max-width: 201px !important;
+    }
+    .Setting-Menu-sm {
+        width: 200px !important;
+        height: 58px !important;
+        padding: 0 !important;
+    }
+
+    .Setting-Menu-Item-sm {
+        height: 35px !important;
+    }
+
+    .quality-Menu-sm {
+        width: 200px !important;
+        padding: 20px !important;
+        bottom: 180px !important;
+    }
+
+    .quality-Menu-Item-sm {
+        height: 30px !important;
+    }
+
+    .quality-text-sm {
+        font-size: 0.75rem !important;
+    }
+    
+}
+/*Query for car text img*/
+@media (min-width: 576px) and (max-width: 669.98px) {
+    .Card-text-and-img-Container-sm {
+        height: 260px !important;
+    }
+}
+
+@media (min-width: 670px) and (max-width: 767.98px) {
+    .Card-text-and-img-Container-sm-md {
+        height: 300px !important;
+    }
+}
+/*@media (min-width: 750px) and (max-width:767.98px) {
+    .Card-text-and-img-Container-sm-mid-md {
+        height: 300px !important;
+    }
+}*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .hiden-md {
+        display: none !important;
+    }
+    .font-md {
+        font-size: 15px !important;
+    }
+    .margin-menu-item-md {
+        margin-left: 15px !important;
+    }
+
+    .sub-menu-md {
+        right: -228px !important;
+        width: 630px !important;
+        
+    }
+    .buttun-usr-md {
+        width: 85px !important;
+    }
+    .search-md {
+        width: 295px !important;
+    }
+    .txtSearch-md {
+        width: 265px !important;
+    }
+    .btn-tools-md {
+        width: 65px !important;
+    }
+    .header-rightside-margin-md {
+        margin-left: 35px !important;
+    }
+    .sub-menu-items-md {
+        width: 260px !important;
+        margin-left: 2px !important;
+    }
+    .video-Menu-md {
+        flex-direction: row !important;
+        justify-content: center !important;
+    }
+
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .hiden-lg {
+        display: none !important;
+    }
+    .font-lg {
+        font-size: 0.81em !important;
+    }
+    .margin-menu-item-lg{
+        margin-left:35px !important;
+    }
+    .sub-menu-lg {
+        right: -282px !important;
+        width: 803px !important;
+    }
+    .sub-menu-items-lg {
+        width: 260px !important;
+        margin-left: 2px !important;
+    }
+    .video-Menu-lg {
+        flex-direction: row !important;
+        justify-content: center !important;
+    }
+    .Card-text-and-img-Container-lg {
+        height: 265px !important;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .hiden-xl {
+        display: none !important;
+    }
+
+    .font-xl {
+        font-size: 15px !important;
+    }
+}
+@media (min-width: 1400px) and (max-width: 1600px) {
+    .hiden-xxl {
+        display: none !important;
+    }
+}
